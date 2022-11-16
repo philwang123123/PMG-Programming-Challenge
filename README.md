@@ -24,14 +24,14 @@
 
 # How to run this program
 Through command line:
-$ python csvcombiner.py fixtures/accessories.csv fixtures/clothing.csv fixtures/household_cleaners.csv > output.csv
+$ python csvcombiner.py fixtures/accessories.csv fixtures/clothing.csv fixtures/household_cleaners.csv > output.csv <br />
 If your Python version is the latest:
-$ python3 csvcombiner.py fixtures/accessories.csv fixtures/clothing.csv fixtures/household_cleaners.csv > output.csv
+$ python3 csvcombiner.py fixtures/accessories.csv fixtures/clothing.csv fixtures/household_cleaners.csv > output.csv <br />
 
 Test this program:
-python -m unittest test_csv_combiner.py
+python -m unittest test_csv_combiner.py <br />
 If your Python version is the latest:
-$ python3 -m unittest test_csv_combiner.py
+$ python3 -m unittest test_csv_combiner.py <br />
 
 # Example output after running csvcombiner.py
 Given two input files named clothing.csv and accessories.csv
