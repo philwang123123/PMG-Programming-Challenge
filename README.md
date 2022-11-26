@@ -1,4 +1,4 @@
-# PMG Programming Assessment Challenge
+# Programming Challenge
   This is a Python program. CSV combiner will take several CSV files as arguments. Each CSV file will have the same columns. The output of this program is a new CSV file that includes the rows from each of the inputs as well as an additional column that lists the filename from which each row came(It only contains the file's base name not the file path). Use filename as the header for the additional column. <br />
   CSV files are used to store data. They are sometimes useful for moving data between different systems. This program allows you to merge CSV files easily and quickly, it allows to concatenate multiple files in order to get a single one. If the data in the files changes, you can sync those changes to the master CSV file. No need to repeat any manual work. 
 
